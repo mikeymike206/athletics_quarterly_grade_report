@@ -8,8 +8,6 @@ In recent years, the increasing number of transfer student-athletes—partly due
 
 Note: Due to the COVID-19 pandemic (2020–2022), many courses transitioned online, and temporary grading options (Credit/No Credit) were implemented. These changes may have impacted GPA calculations during that period and should be considered when reviewing historical data.
 
----
-
 ## Data Structure and Overview
 
 The dataset consists of term-level academic performance for all student-athletes by team, GPA range, academic standing, and demographics.
